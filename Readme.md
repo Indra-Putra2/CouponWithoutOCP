@@ -1,4 +1,4 @@
-## Coupun without OCP
+## Coupon without OCP
 merupakan aplikasi prehitungan coupon dengan menerapkan ```Open
 Close Principle```
 
